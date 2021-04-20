@@ -1,0 +1,27 @@
+ID_Client: 2
+Nume si prenume: Gheorghe Paul
+Telefon: 0795684325
+Oras: Pitesti
+Moneda:RON
+
+------------------------------------------------------------------------------------------------------------------------
+Data           	Detalii Tranzactie                                	Debit          	Credit         	Balanta        
+------------------------------------------------------------------------------------------------------------------------
+
+2021-04-10     	Deschidere cont                                   	0.0            	0.0            	0.0            
+2021-04-10     	Transfer intra-bancar                             	0.0            	50.0           	50.0           
+               	De la Id_Client: 1                                	               	               	               
+               	Titular: Vlad Ionut                               	               	               	               
+2021-04-11     	Depunere numerar                                  	0.0            	800.0          	850.0          
+2021-04-11     	Extragere numerar                                 	250.0          	0.0            	600.0          
+2021-04-11     	Transfer intra-bancar                             	186.0          	0.0            	414.0          
+               	Catre Id_Client: 1                                	               	               	               
+               	Titular: Vlad Ionut                               	               	               	               
+2021-04-14     	Depunere numerar                                  	0.0            	320.0          	734.0          
+2021-04-14     	Extragere numerar                                 	17.0           	0.0            	717.0          
+2021-04-14     	Transfer extra-bancar                             	184.0          	0.0            	533.0          
+               	Cont: RO01INGB0000141425253636                    	               	               	               
+               	Titular: Camataru Fane                            	               	               	               
+2021-04-14     	Transfer intra-bancar                             	0.0            	221.0          	754.0          
+               	De la Id_Client: 1                                	               	               	               
+               	Titular: Vlad Ionut                               	               	               	               

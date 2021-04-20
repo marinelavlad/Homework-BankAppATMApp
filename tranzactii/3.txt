@@ -1,0 +1,19 @@
+ID_Client: 3
+Nume si prenume: Popescu Mihai
+Telefon: 0789654123
+Oras: Valcea
+Moneda:RON
+
+------------------------------------------------------------------------------------------------------------------------
+Data           	Detalii Tranzactie                                	Debit          	Credit         	Balanta        
+------------------------------------------------------------------------------------------------------------------------
+
+2021-04-14     	Deschidere cont                                   	0.0            	0.0            	0.0            
+2021-04-14     	Depunere numerar                                  	0.0            	450.0          	450.0          
+2021-04-14     	Extragere numerar                                 	78.0           	0.0            	372.0          
+2021-04-14     	Transfer intra-bancar                             	122.0          	0.0            	250.0          
+               	Catre Id_Client: 1                                	               	               	               
+               	Titular: Vlad Ionut                               	               	               	               
+2021-04-14     	Transfer extra-bancar                             	25.0           	0.0            	225.0          
+               	Cont: RO14BRDB1414585896963232                    	               	               	               
+               	Titular: Gheorghe Vasile                          	               	               	               

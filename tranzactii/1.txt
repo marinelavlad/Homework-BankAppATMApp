@@ -1,0 +1,19 @@
+ID_Client: 1
+Nume si prenume: Vlad Ionut
+Telefon: 0741258369
+Oras: Bucuresti
+Moneda:RON
+
+------------------------------------------------------------------------------------------------------------------------
+Data           	Detalii Tranzactie                                	Debit          	Credit         	Balanta        
+------------------------------------------------------------------------------------------------------------------------
+
+2021-04-10     	Deschidere cont                                   	0.0            	0.0            	0.0            
+2021-04-10     	Depunere numerar                                  	0.0            	500.0          	500.0          
+2021-04-10     	Extragere numerar                                 	150.0          	0.0            	350.0          
+2021-04-10     	Transfer intra-bancar                             	50.0           	0.0            	300.0          
+               	Catre Id_Client: 2                                	               	               	               
+               	Titular: Gheorghe Paul                            	               	               	               
+2021-04-10     	Transfer extra-bancar                             	100.0          	0.0            	200.0          
+               	Cont: RO45RZBR000011112222                        	               	               	               
+               	Titular: Ion Matei                                	               	               	               

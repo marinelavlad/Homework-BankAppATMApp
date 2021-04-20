@@ -1,0 +1,25 @@
+ID_Client: 4
+Nume si prenume: Dogaru Mihai
+Telefon: 0788965741
+Oras: Buzau
+Moneda:RON
+
+------------------------------------------------------------------------------------------------------------------------
+Data           	Detalii Tranzactie                                	Debit          	Credit         	Balanta        
+------------------------------------------------------------------------------------------------------------------------
+
+2021-04-20     	Deschidere cont                                   	0.0            	0.0            	0.0            
+2021-04-20     	Depunere numerar                                  	0.0            	214.0          	214.0          
+2021-04-20     	Depunere numerar                                  	0.0            	365.0          	579.0          
+2021-04-20     	Extragere numerar                                 	187.0          	0.0            	392.0          
+2021-04-20     	Transfer intra-bancar                             	100.0          	0.0            	292.0          
+               	Catre Id_Client: 3                                	               	               	               
+               	Titular: Popescu Mihai                            	               	               	               
+2021-04-20     	Transfer extra-bancar                             	54.0           	0.0            	238.0          
+               	Cont: RO14RZBR7896145236528547                    	               	               	               
+               	Titular: Nuta Camataru                            	               	               	               
+2021-04-20     	Transfer intra-bancar                             	140.0          	0.0            	98.0           
+               	Catre Id_Client: 1                                	               	               	               
+               	Titular: Vlad Ionut                               	               	               	               
+2021-04-20     	Depunere numerar la ATM                           	0.0            	800.0          	898.0          
+2021-04-20     	Retragere numerar de la ATM                       	410.0          	0.0            	488.0          

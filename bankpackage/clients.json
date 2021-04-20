@@ -1,0 +1,26 @@
+{
+    "1": {
+        "nume": "Vlad",
+        "prenume": "Ionut",
+        "telefon": "0741258369",
+        "oras": "Bucuresti"
+    },
+    "2": {
+        "nume": "Gheorghe",
+        "prenume": "Paul",
+        "telefon": "0795684325",
+        "oras": "Pitesti"
+    },
+    "3": {
+        "nume": "Popescu",
+        "prenume": "Mihai",
+        "telefon": "0789654123",
+        "oras": "Valcea"
+    },
+    "4": {
+        "nume": "Dogaru",
+        "prenume": "Mihai",
+        "telefon": "0788965741",
+        "oras": "Buzau"
+    }
+}

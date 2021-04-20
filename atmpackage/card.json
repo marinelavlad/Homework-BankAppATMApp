@@ -1,0 +1,26 @@
+{
+    "4157764069644085": {
+        "id_client": "2",
+        "titular card": "Gheorghe Paul",
+        "data expirare": "04/2023",
+        "cvc": "584",
+        "pin": "8434",
+        "moneda": "RON"
+    },
+    "0155503764689560": {
+        "id_client": "1",
+        "titular card": "Vlad Ionut",
+        "data expirare": "04/2023",
+        "cvc": "747",
+        "pin": "7169",
+        "moneda": "RON"
+    },
+    "0857105151019297": {
+        "id_client": "4",
+        "titular card": "Dogaru Mihai",
+        "data expirare": "04/2023",
+        "cvc": "354",
+        "pin": "4455",
+        "moneda": "RON"
+    }
+}
